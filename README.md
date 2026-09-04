@@ -128,8 +128,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 <div align="center">
 
-Made with by 0xkrul
-
-Efficient. Reliable. Powerful.
+Made 0xkrul
 
 </div>
