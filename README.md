@@ -128,6 +128,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 <div align="center">
 
-Made 0xkrul
+Made by 0xkrul
 
 </div>
